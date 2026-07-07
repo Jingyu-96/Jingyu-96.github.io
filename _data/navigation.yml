@@ -10,7 +10,7 @@
 main:
   - title: "About"
     url: /
-  - title: "Working Papers"
+  - title: "Papers"
     url: /publications/
   - title: "Lecture Notes"
     url: /teaching/

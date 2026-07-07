@@ -4,7 +4,7 @@ collection: teaching
 type: "Note"
 permalink: /teaching/real-analysis-notes
 venue: "Personal Study"
-date: 2025
+date: 2025-01-01
 location: "Self-study"
 noindex: true
 link: '/files/Real_Analysis_Lecture_Note.pdf'

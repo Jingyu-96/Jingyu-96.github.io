@@ -4,7 +4,7 @@ collection: teaching
 type: "Note"
 permalink: /teaching/finance-economics-notes
 venue: "Personal Study"
-date: 2025
+date: 2025-01-01
 location: "Self-study"
 noindex: true
 link: '/files/Finance_economic_lecture_note.pdf'

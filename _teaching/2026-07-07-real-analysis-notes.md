@@ -1,7 +1,7 @@
 ---
-title: "Real Analysis Self-Study Lecture Note (Analysis I & II)"
+title: "Note on Real Analysis (Analysis I & II)"
 collection: teaching
-type: "Self-Study Note"
+type: "Note"
 permalink: /teaching/real-analysis-notes
 venue: "Personal Study"
 date: 2026-07-07

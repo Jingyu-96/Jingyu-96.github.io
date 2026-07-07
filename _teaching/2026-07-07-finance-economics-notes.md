@@ -1,7 +1,7 @@
 ---
-title: "Finance Economics Self-Study Lecture Note"
+title: "Note on Finance Economics"
 collection: teaching
-type: "Self-Study Note"
+type: "Note"
 permalink: /teaching/finance-economics-notes
 venue: "Personal Study"
 date: 2026-07-07

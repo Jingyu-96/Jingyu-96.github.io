@@ -7,9 +7,6 @@ venue: "Personal Study"
 date: 2026-07-07
 location: "Self-study"
 noindex: true
-excerpt: 'Personal self-study note, not an official course document. Covers utility functions (CARA, CRRA) and the Markowitz portfolio model, asset pricing models (CAPM, CCAPM), autocorrelation and unit-root testing of returns, the equity premium puzzle, stock return predictability, and exchange rate models (UIP). [Download PDF](/files/Finance_economic_lecture_note.pdf)'
+link: '/files/Finance_economic_lecture_note.pdf'
+excerpt: 'Personal self-study note, not an official course document. Covers utility functions (CARA, CRRA) and the Markowitz portfolio model, asset pricing models (CAPM, CCAPM), autocorrelation and unit-root testing of returns, the equity premium puzzle, stock return predictability, and exchange rate models (UIP).'
 ---
-
-Covers utility functions (CARA, CRRA) and the Markowitz portfolio model, asset pricing models (CAPM, CCAPM), autocorrelation and unit-root testing of returns, the equity premium puzzle, stock return predictability, and exchange rate models (UIP).
-
-[Download PDF](/files/Finance_economic_lecture_note.pdf)

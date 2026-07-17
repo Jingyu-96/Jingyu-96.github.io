@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /files/Real_Analysis_Lecture_Note.pdf
-Disallow: /files/Finance_economic_lecture_note.pdf
-Disallow: /teaching/real-analysis-notes/
-Disallow: /teaching/finance-economics-notes/
-
-Sitemap: https://jingyu-96.github.io/sitemap.xml

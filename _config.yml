@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Jingyu Song"
-description              : &description "Jingyu Song's academic portfolio"
+title                    : "JinGyu Song"
+description              : &description "JinGyu Song's academic portfolio"
 url                      : https://jingyu-96.github.io
 baseurl                  : ""
 repository               : "Jingyu-96/Jingyu-96.github.io"
@@ -21,7 +21,7 @@ repository               : "Jingyu-96/Jingyu-96.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jingyu Song"
+  name             : "JinGyu Song"
   bio              : "Ph.D. student in Economics at Texas A&M University"
   location         : "College Station, TX"
   employer         : "Texas A&M University, Economics"

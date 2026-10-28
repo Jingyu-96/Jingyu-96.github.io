@@ -57,6 +57,8 @@ publication_category:
     title: 'Papers Under Review'
   papers:
     title: 'Working Papers'
+  wip:
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
